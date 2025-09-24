@@ -10,8 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- Estudante de **Análise e Desenvolvimento de Sistemas**  
-- Apaixonado por construir projetos que unem **design + funcionalidade**  
+- Estudante de **Análise e Desenvolvimento de Sistemas**   
 - Buscando sempre aprender novas linguagens, frameworks e boas práticas  
 - Motivado por desafios que me façam sair da zona de conforto  
 
@@ -21,10 +20,10 @@
 
 | Categoria        | Tecnologias / Ferramentas |
 |------------------|-----------------------------|
-| Front-end        | HTML5, CSS3, JavaScript, React (ou outra de sua preferência) |
-| Back-end / Mobile | [Adicione o que você usa ou quer usar: Node, Java, Kotlin, etc.] |
-| Banco de dados   | [MySQL, PostgreSQL, SQLite, etc.] |
-| Ferramentas       | Git, VSCode, GitHub, Docker (ou outras que você usa) |
+| Front-end        | HTML5, CSS3, JavaScript, React, Typescript |
+| Back-end / Mobile | Java |
+| Banco de dados   | SQL|
+| Ferramentas       | Git, VSCode, GitHub, InteliJ|
 
 ---
 
@@ -33,7 +32,7 @@
 Aqui estão alguns repositórios que mostram bem o que eu gosto de fazer:
 
 - **html-css** — Estudos em HTML e CSS  
-- **Projeto‑Android** — Projeto mobile (Android)  
+- **Projeto‑Android** — Web site (Android)  
 - **Project‑Saude‑ja** — Sistema para UBS  
 - **Trabalho‑Front‑End‑2** — Trabalho front-end em equipe  
 - **Trabalho‑Front‑End** — Projeto de disciplina Front End  
@@ -42,10 +41,3 @@ Aqui estão alguns repositórios que mostram bem o que eu gosto de fazer:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-Você pode inserir um “GitHub stats card” ou “top languages card” aqui para destacar visualmente suas contribuições, por exemplo:
-
-```md
-![Gus stats](https://github-readme-stats.vercel.app/api?username=Gustavo-SX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-SX&layout=compact&theme=radical)
